@@ -24,3 +24,13 @@ h2 {
   background-color: gray;
   text-decoration: underline;
 }
+
+#intro {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+.spotlight {
+  background-color: #FEFE22;
+}
